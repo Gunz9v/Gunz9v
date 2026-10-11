@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171923,50:714B67,100:A66DD4&height=210&section=header&text=Gustavo%20Gomez&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Odoo%20Developer%20%7C%20Functional%20%26%20Technical%20Analyst&descSize=17&descAlignY=60" width="100%" alt="Gustavo Gomez - Odoo Developer" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Gustavo Gomez - Odoo Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1100&color=A66DD4&center=true&vCenter=true&width=720&lines=Building+business+solutions+with+Odoo;Custom+modules+%7C+Integrations+%7C+Automation;Connecting+business+needs+with+technology" alt="Odoo development and business automation" />
+**Building business solutions with Odoo**\n\n*Custom modules · Integrations · Automation*
 
 <br />
 
