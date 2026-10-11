@@ -47,34 +47,22 @@ I'm a software developer focused on **Odoo ERP development and functional/techni
 ![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST-APIs-0A66C2?style=flat-square)
 
-**Tools & complementary technologies**
+**Development & deployment tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 📌 Featured Repositories
-
-### 🟣 Odoo
+## 📌 Odoo Projects
 
 - **[OdooModulos](https://github.com/Gunz9v/OdooModulos)** — Repository dedicated to Odoo modules.
 
-### 💻 Other Development Projects
-
-- **[Proyecto_MobileNutri](https://github.com/Gunz9v/Proyecto_MobileNutri)** — Java mobile application project.
-- **[sexo-service](https://github.com/Gunz9v/sexo-service)** — Backend service project.
-
-> Repository documentation is being improved as projects evolve.
+> More Odoo-specific projects and documentation will be added here.
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gunz9v&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunz9v&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
