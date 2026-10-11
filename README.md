@@ -2,14 +2,15 @@
 
 # Hi, I'm Gustavo! 👋
 
-### Software Developer | Backend Development | ERP Solutions
+### Odoo Developer | Odoo Functional & Technical Analyst
 
-Building practical software solutions through **backend development, business automation, and AI**.
+**Turning business requirements into practical ERP solutions.**
 
 📍 Lima, Peru
 
+[![Odoo](https://img.shields.io/badge/Focus-Odoo%20ERP-714B67?style=flat-square&logo=odoo&logoColor=white)](https://www.odoo.com/)
 [![GitHub followers](https://img.shields.io/github/followers/Gunz9v?style=flat-square&logo=github&label=Followers)](https://github.com/Gunz9v?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=Gunz9v&style=flat-square&color=blue)](https://github.com/Gunz9v)
+![Profile views](https://komarev.com/ghpvc/?username=Gunz9v&style=flat-square&color=blue)
 
 </div>
 
@@ -17,41 +18,55 @@ Building practical software solutions through **backend development, business au
 
 ## 👨‍💻 About Me
 
-I'm a software developer interested in creating reliable applications and improving business processes with technology.
+I'm a software developer focused on **Odoo ERP development and functional/technical analysis**. I enjoy understanding business processes, translating requirements into solutions, and improving workflows through customization and automation.
 
-- 🧩 **ERP & automation:** Odoo customization, business workflows, and integrations.
-- ⚙️ **Backend:** APIs, databases, and application development.
-- 🤖 **AI:** Exploring deep learning and intelligent applications.
-- 🌱 **Always learning:** Software architecture, integrations, and modern development practices.
+- 🟣 **Odoo development:** Python models, XML views, custom modules, business logic, and integrations.
+- 📋 **Functional & technical analysis:** Requirements, process analysis, system configuration, reporting, and user support.
+- 🔌 **Integrations:** REST APIs, XML-RPC, and external services.
+- 🗄️ **Infrastructure & data:** PostgreSQL, Docker, and Git.
+- 🤖 **Additional interests:** AI integrations and intelligent business automation.
+
+## 🎯 Odoo Specialization
+
+| Technical Development | Functional & Technical Analysis |
+| --- | --- |
+| Custom modules and model extensions | Business requirements analysis |
+| Python, ORM, and XML views | Workflow mapping and improvement |
+| API and external-service integrations | Module configuration and validation |
+| Database and deployment workflows | Reports, user support, and documentation |
+
+> My focus is connecting business needs with maintainable Odoo solutions.
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frameworks & tools**
+**Odoo & backend**
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square)
+![REST API](https://img.shields.io/badge/REST-APIs-0A66C2?style=flat-square)
+
+**Tools & complementary technologies**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Areas of interest:** REST APIs · ERP development · Software integration · Deep learning
+## 📌 Featured Repositories
 
-## 📌 Featured Projects
+### 🟣 Odoo
 
-| Project | Focus |
-| --- | --- |
-| [OdooModulos](https://github.com/Gunz9v/OdooModulos) | Odoo module development and customization |
-| [Proyecto_MobileNutri](https://github.com/Gunz9v/Proyecto_MobileNutri) | Java mobile application project |
-| [sexo-service](https://github.com/Gunz9v/sexo-service) | Backend service project |
+- **[OdooModulos](https://github.com/Gunz9v/OdooModulos)** — Repository dedicated to Odoo modules.
 
-> I'm continuously improving the documentation and presentation of my projects.
+### 💻 Other Development Projects
+
+- **[Proyecto_MobileNutri](https://github.com/Gunz9v/Proyecto_MobileNutri)** — Java mobile application project.
+- **[sexo-service](https://github.com/Gunz9v/sexo-service)** — Backend service project.
+
+> Repository documentation is being improved as projects evolve.
 
 ## 📊 GitHub Activity
 
@@ -67,6 +82,8 @@ I'm a software developer interested in creating reliable applications and improv
 
 <div align="center">
 
-**Thanks for visiting!** ⭐ Explore my repositories and follow along as I build more projects.
+**Odoo development · Functional analysis · Business process improvement**
+
+Thanks for visiting! ⭐
 
 </div>
