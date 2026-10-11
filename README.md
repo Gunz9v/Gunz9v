@@ -2,7 +2,7 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Gustavo Gomez - Odoo Developer" />
 
-**Building business solutions with Odoo**\n\n*Custom modules · Integrations · Automation*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3200&amp;pause=1100&amp;color=A66DD4&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Building+business+solutions+with+Odoo;Custom+modules+%7C+Integrations+%7C+Automation;Connecting+business+needs+with+technology" alt="Animated typing text about Odoo development" />
 
 <br />
 
