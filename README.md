@@ -1,77 +1,105 @@
 <div align="center">
 
-# Hi, I'm Gustavo! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171923,50:714B67,100:A66DD4&height=210&section=header&text=Gustavo%20Gomez&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Odoo%20Developer%20%7C%20Functional%20%26%20Technical%20Analyst&descSize=17&descAlignY=60" width="100%" alt="Gustavo Gomez - Odoo Developer" />
 
-### Odoo Developer | Odoo Functional & Technical Analyst
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1100&color=A66DD4&center=true&vCenter=true&width=720&lines=Building+business+solutions+with+Odoo;Custom+modules+%7C+Integrations+%7C+Automation;Connecting+business+needs+with+technology" alt="Odoo development and business automation" />
 
-**Turning business requirements into practical ERP solutions.**
+<br />
 
-📍 Lima, Peru
-
-[![Odoo](https://img.shields.io/badge/Focus-Odoo%20ERP-714B67?style=flat-square&logo=odoo&logoColor=white)](https://www.odoo.com/)
-[![GitHub followers](https://img.shields.io/github/followers/Gunz9v?style=flat-square&logo=github&label=Followers)](https://github.com/Gunz9v?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=Gunz9v&style=flat-square&color=blue)
+[![Odoo ERP](https://img.shields.io/badge/Odoo-ERP%20Development-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/)
+[![Location](https://img.shields.io/badge/Based%20in-Lima%2C%20Peru-30363D?style=for-the-badge)](https://github.com/Gunz9v)
+[![Profile views](https://komarev.com/ghpvc/?username=Gunz9v&style=for-the-badge&color=714B67)](https://github.com/Gunz9v)
 
 </div>
 
----
+## 👋 About me
 
-## 👨‍💻 About Me
+I'm a developer focused on **Odoo ERP customization** and **functional & technical analysis**. I work at the intersection of business processes and software: understanding requirements, designing practical solutions, and improving operations through modules, integrations, and automation.
 
-I'm a software developer focused on **Odoo ERP development and functional/technical analysis**. I enjoy understanding business processes, translating requirements into solutions, and improving workflows through customization and automation.
+- 🧩 **Odoo development:** Python, ORM models, XML views, security rules, business logic, and custom addons.
+- 📋 **Functional analysis:** requirements gathering, workflows, configuration, reports, and user support.
+- 🔌 **Integrations:** REST APIs, XML-RPC, external services, and data exchange.
+- 🐳 **Development environment:** PostgreSQL, Docker, Git, and GitHub.
+- 🤖 **Exploring:** AI-assisted workflows and business process automation.
 
-- 🟣 **Odoo development:** Python models, XML views, custom modules, business logic, and integrations.
-- 📋 **Functional & technical analysis:** Requirements, process analysis, system configuration, reporting, and user support.
-- 🔌 **Integrations:** REST APIs, XML-RPC, and external services.
-- 🗄️ **Infrastructure & data:** PostgreSQL, Docker, and Git.
-- 🤖 **Additional interests:** AI integrations and intelligent business automation.
+## ⚡ What I do
 
-## 🎯 Odoo Specialization
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Technical Development | Functional & Technical Analysis |
-| --- | --- |
-| Custom modules and model extensions | Business requirements analysis |
-| Python, ORM, and XML views | Workflow mapping and improvement |
-| API and external-service integrations | Module configuration and validation |
-| Database and deployment workflows | Reports, user support, and documentation |
+### 💻 Technical development
 
-> My focus is connecting business needs with maintainable Odoo solutions.
+- Custom Odoo modules
+- Python models and ORM
+- XML views and access controls
+- API and third-party integrations
+- Debugging and deployment workflows
 
-## 🛠️ Tech Stack
+</td>
+<td width="50%" valign="top">
 
-**Odoo & backend**
+### 📊 Functional & technical analysis
 
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square)
-![REST API](https://img.shields.io/badge/REST-APIs-0A66C2?style=flat-square)
+- Business requirements and process mapping
+- Functional configuration and validation
+- Reports and data exports
+- Documentation and user training
+- Process improvement and automation
 
-**Development & deployment tools**
+</td>
+</tr>
+</table>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📌 Odoo Projects
-
-- **[OdooModulos](https://github.com/Gunz9v/OdooModulos)** — Repository dedicated to Odoo modules.
-
-> More Odoo-specific projects and documentation will be added here.
-
-## 📊 GitHub Activity
+## 🛠️ Technologies
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gunz9v&show_icons=true&theme=github_dark&hide_border=true)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-0A66C2?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
+## 🚀 Featured Odoo projects
+
+| Project | What it does | Version |
+| :--- | :--- | :---: |
+| 📄 [**SmartDoc Laboral**](https://github.com/Gunz9v/OdooModulos/tree/main/18.0/smart_labor_documents) | Employee document portal, payslips, contracts, and communications | 18.0 |
+| 🇵🇪 [**SUNAT SIRE Integration**](https://github.com/Gunz9v/OdooModulos/tree/main/18.0/l10n_pe_sire_core) | Foundation for Peruvian SIRE workflows, API connectivity, and PLE imports | 18.0 |
+| 🗺️ [**Salesperson Route Tracking**](https://github.com/Gunz9v/OdooModulos/tree/main/18.0/salesperson_route_tracking) | GPS tracking and route history for sales teams | 18.0 |
+| 📍 [**Attendance Location Tracking**](https://github.com/Gunz9v/OdooModulos/tree/main/18.0/hr_attendance_location_tracking) | Mobile attendance, corporate devices, and GPS sessions | 18.0 |
+
+<div align="center">
+
+### 📚 [Explore my Odoo modules →](https://github.com/Gunz9v/OdooModulos)
+
+*Custom addons organized by Odoo version, with module-level documentation.*
+
+</div>
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gunz9v&show_icons=true&theme=midnight-purple&hide_border=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunz9v&layout=compact&theme=midnight-purple&hide_border=true" height="165" alt="Most used languages" />
+
+</div>
+
+> GitHub statistics are generated by third-party services and may occasionally be unavailable.
+
 ---
 
 <div align="center">
 
-**Odoo development · Functional analysis · Business process improvement**
+**Odoo development · Business analysis · Integrations · Automation**
 
-Thanks for visiting! ⭐
+*Thanks for visiting! If you find a project useful, feel free to explore the code and documentation.* ⭐
 
 </div>
